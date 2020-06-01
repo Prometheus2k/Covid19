@@ -1,0 +1,159 @@
+.fullpage{
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+.row{
+  margin: 0;
+}
+.left{
+  position: relative;
+  background-color: #bed2db;
+  height: 100%;
+  width :50%;
+  padding: 0;
+
+}
+.virus{
+  margin-left: 100px;
+  margin-top: 130px;
+}
+.virus-img{
+  width:160px;
+  height:100px;
+  padding-left: 40px;
+}
+.virus-text{
+  padding-top: 10px;
+  font-size: 1.2rem;
+  color: #757196;
+}
+
+.cough{
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-bottom: 300px;
+}
+.cough-img{
+  width:160px;
+  height:100px;
+  padding-left: 40px;
+}
+.cough-text{
+  width: 200px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 1.2rem;
+  color: #757196;
+}
+.callnow{
+  position: relative;
+  left: 40px;
+  bottom: 150px;
+  margin-left: 40px;
+
+}
+.call-button{
+  background-color: #fe4f60;
+  border: none;
+  padding-left: 30px;
+  padding-right: 80px;
+}
+.ambulance{
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+.right{
+  position: relative;
+  background-color: #fde3cc;
+  height: 100%;
+  width :50%;
+  padding: 0;
+}
+.mask{
+  margin-left: 370px;
+  margin-top: 150px;
+}
+.mask-img{
+  width:180px;
+  height:100px;
+  padding-left: 60px;
+}
+.mask-text{
+  padding-top: 10px;
+  font-size: 1.2rem;
+  color: #d59781;
+}
+.dirty{
+  margin-left: 385px;
+  margin-top: 80px;
+}
+.dirty-img{
+  width:180px;
+  height:100px;
+  padding-left: 40px;
+}
+.dirty-text{
+  padding-top: 10px;
+  font-size: 1.2rem;
+  width: 200px;
+  text-align: center;
+  color: #d59781;
+}
+.drug{
+  margin-left: 400px;
+  margin-top: 100px;
+  margin-bottom: 86px;
+}
+.drug-img{
+  width:180px;
+  height:100px;
+  padding-left: 60px;
+}
+.drug-text{
+  padding-top: 10px;
+  font-size: 1.2rem;
+  width: 235px;
+  text-align: center;
+  color: #d59781;
+}
+.navbar{
+  position: absolute;
+  z-index: 1;
+  width:100%;
+}
+
+.nav-item{
+  padding: 0 30px;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.poster{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-300px;
+    margin-left:-294px;
+}
+.poster-img{
+  width: 600px;
+  height: 700px;
+}
+.poster-text{
+  width: 400px;
+  line-height: 1.2;
+  position:absolute;
+  top:75%;
+  left:40%;
+  margin-bottom:70px;
+  margin-left:-80px;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  color: #fbfbff;
+
+}
